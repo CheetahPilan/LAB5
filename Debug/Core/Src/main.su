@@ -1,0 +1,12 @@
+main.c:83:5:main	8	static
+main.c:134:6:SystemClock_Config	88	static
+main.c:179:13:MX_TIM2_Init	48	static
+main.c:237:13:MX_TIM5_Init	8	static
+main.c:268:13:MX_USART2_UART_Init	8	static
+main.c:299:13:MX_DMA_Init	16	static
+main.c:317:13:MX_GPIO_Init	48	static
+main.c:346:10:micro	8	static
+main.c:350:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:357:6:ToggleLED	16	static
+main.c:365:6:SpeedMotor	32	static
+main.c:388:6:Error_Handler	4	static,ignoring_inline_asm
